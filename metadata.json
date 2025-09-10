@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Machine Learning Course",
+  "description": "An interactive web application for learning the fundamentals of machine learning, featuring visualizations, hands-on exercises, and an integrated AI assistant powered by Gemini.",
+  "requestFramePermissions": []
+}
